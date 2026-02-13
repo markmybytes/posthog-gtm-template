@@ -1,5 +1,5 @@
 homepage: "https://github.com/markmybytes/posthog-gtm-template"
 documentation: "https://github.com/markmybytes/posthog-gtm-template"
 versions:
-  - sha: dd2a538a8e78c10a6e7474312f61cb2eba9b95a9
+  - sha: d8232d1ac804abea8d22e6fc47377aa2d2862cc2
     changeNotes: Initial release.
